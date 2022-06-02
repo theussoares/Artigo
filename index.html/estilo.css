@@ -1,0 +1,15 @@
+.body{
+    background-color: rgb(192, 189, 189);
+    font-size: larger;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 300px;
+    text-align: start;
+}
+
+.h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
